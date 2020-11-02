@@ -44,7 +44,12 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Github]
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp_512x512.png" />][Github]
+
 <br />
+<br />
+<br />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OQ2000&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.owenquinn.co.uk
 [instagram]: https://www.instagram.com/owen.quinn2000/
