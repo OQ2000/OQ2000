@@ -1,4 +1,4 @@
-### Hi there, I'm Owen Quinn
+### Owen Quinn
 
 [![Website](https://img.shields.io/website?label=OwenQuinn.co.uk&style=for-the-badge&url=https%3A%2F%2Fowenquinn.co.uk)](https://owenquinn.co.uk)
 
