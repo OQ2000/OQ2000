@@ -5,8 +5,8 @@
 
 ## I'm an Entripenure, Developer And Enthusistic Programmer!!
 
-- 💡 I am currently learning how to become a full stack developer.
-- 🖥️ activily pursuing work in the computer science sector.
+- 💡 Undergraduate Ulster University Computer Science Student
+- 🖥️ Activily learning new languages and libraries.
 - 🚀 My goal is to be able to hold the knowledge to bring any ideas I have into reality.
 
 ---
