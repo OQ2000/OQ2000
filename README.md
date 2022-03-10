@@ -1,6 +1,6 @@
 ### Owen Quinn
 
-[![Website](https://img.shields.io/website?label=OwenQuinn&style=for-the-badge&url=https%3A%2F%2Fhttps://owen-quinn.herokuapp.com/)](https://owen-quinn.herokuapp.com/)
+[![Website](https://img.shields.io/website?label=OwenQuinn&style=for-the-badge&url=https%3A%2F%2Fowen-quinn.herokuapp.com/)](https://owen-quinn.herokuapp.com/)
 
 ## I'm a Software Developer And Enthusistic Photographer!!
 
