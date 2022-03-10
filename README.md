@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=OwenQuinn.co.uk&style=for-the-badge&url=https%3A%2F%2Fowenquinn.co.uk)](https://owenquinn.co.uk)
 
 
-## I'm a Developer And Enthusistic Programmer!!
+## I'm a Software Developer And Enthusistic Photographer!!
 
 - 💡  Undergraduate Ulster University Computer Science Student
 - 🖥️ Activily learning new languages and libraries.
